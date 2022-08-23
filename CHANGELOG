@@ -1,0 +1,36 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/)
+and this project adheres to [Semantic Versioning](http://semver.org/).
+
+## [0.1.0] - 2022-08-23
+
+### Added
+
+- Main `autoexec.cfg` containing all optimizations & improvements added (by me)
+
+### Changed
+
+- Updated long-jump script. Now it doesn't release W as I felt it was confusing
+- Updated the auto-heal script with uber popping
+- Simplified and formatted all class files
+- Changed Mastercomfig graphical preset from Medium-High to Medium
+
+### Removed
+
+- Viewmodel animations (due to bias) removed
+- All previous configuration files (except mastercomfig VPKs) removed
+- Custom hitsounds removed
+
+## [0.1.0-beta] - 2022-08-09
+
+### Added
+
+- Gameplay optimizations
+- Network optimizations
+- Custom animations
+- HUD improvements
+- Auto-heal script
+- C-tap script
